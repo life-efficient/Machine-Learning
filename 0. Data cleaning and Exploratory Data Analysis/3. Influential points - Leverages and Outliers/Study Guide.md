@@ -1,0 +1,3 @@
+1. Read through the notebook. 
+2. Examples of the different types of data points you may encounter [here](https://www2.stat.duke.edu/courses/Spring19/sta101.002/post/project/outliers.html).
+3. Research paper showing you in detail how to unmask multivariate outliers and leverage points can be found [here](https://www.researchgate.net/publication/243765895_Unmasking_Multivariate_Outliers_and_Leverage_Points).

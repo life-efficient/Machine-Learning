@@ -1,0 +1,1 @@
+1. Watch the presentation on an introduction to data science to get an overview of the module.
