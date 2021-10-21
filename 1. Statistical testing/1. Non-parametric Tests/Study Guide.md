@@ -1,3 +1,0 @@
-1. Read through the notebook.
-2. An good resource with links to non-parametric tests and their equivalents can be found [here](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/).
-3. An explanation of when use non-parametric vs parametric tests can be found [here](https://blog.minitab.com/en/adventures-in-statistics-2/choosing-between-a-nonparametric-test-and-a-parametric-test).
